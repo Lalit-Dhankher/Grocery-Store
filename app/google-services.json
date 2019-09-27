@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "703398538536",
+    "firebase_url": "https://grocery-store-250011.firebaseio.com",
+    "project_id": "grocery-store-250011",
+    "storage_bucket": "grocery-store-250011.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703398538536:android:417f5d04a988b336",
+        "android_client_info": {
+          "package_name": "com.grocery.grocerystore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703398538536-4vopg80873e7uo7qnm4qv5cqv423olof.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.grocery.grocerystore",
+            "certificate_hash": "310ca57f795727ce3c41573b6d46cfd533a78515"
+          }
+        },
+        {
+          "client_id": "703398538536-bp6prfidi0p2l24kf1lpms2hvslemdsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9TPDYuw4PaWNgHsERgT85epe55pF2Vfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703398538536-bp6prfidi0p2l24kf1lpms2hvslemdsa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703398538536:android:5b44f2ed10feec00",
+        "android_client_info": {
+          "package_name": "com.grocery.grocerystore.debug.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703398538536-tecv432gpd8nfjcc1uq6ftn0q5al92j2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.grocery.grocerystore.debug.debug",
+            "certificate_hash": "310ca57f795727ce3c41573b6d46cfd533a78515"
+          }
+        },
+        {
+          "client_id": "703398538536-bp6prfidi0p2l24kf1lpms2hvslemdsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9TPDYuw4PaWNgHsERgT85epe55pF2Vfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703398538536-bp6prfidi0p2l24kf1lpms2hvslemdsa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
